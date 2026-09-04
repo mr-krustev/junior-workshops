@@ -10,8 +10,8 @@
 ## Stack
 
 - Everything in TypeScript
-- Frontend: simple UI (React, Vue, or vanilla TS — pick one)
-- Backend: simple HTTP API (Express, Fastify, or similar — pick one)
+- Frontend: simple React UI
+- Backend: simple Koa HTTP API
 - Persistence: in-memory is enough (no real DB required)
 - Auth: simple token or session (no JWT refresh / OAuth implementation)
 
